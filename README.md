@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte de um desafio de lógica e estruturaç�
 
 ## 📷 Código Principal
 
-<img src="code.png" alt="Print do Código Principal" width="600" height="400">
+<img src="code.png" alt="Print do Código Principal" width="600">
 
 ## 💡 Objetivo
 
