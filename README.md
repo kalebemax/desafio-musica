@@ -19,13 +19,6 @@ O desafio tem como foco a prática de:
 - Aplicação de orientação a objetos (POO)
 - Estruturação de código limpo e reutilizável
 
-## 📂 Como Executar
-
-1. Clone este repositório em sua máquina local.
-2. Abra o projeto em sua IDE de preferência.
-3. Execute a classe `Principal` para iniciar o programa.
-4. Siga as instruções no console para adicionar músicas e verificar preferências.
-
 ## 📚 Classes
 
 ### 🎵 Musica
@@ -46,6 +39,13 @@ Executa o programa e permite a interação com as funcionalidades.
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📂 Como Executar
+
+1. Clone este repositório em sua máquina local.
+2. Abra o projeto em sua IDE de preferência.
+3. Execute a classe `Principal` para iniciar o programa.
+4. Siga as instruções no console para adicionar músicas e verificar preferências.
 
 ## 🔗 Links Úteis
 
